@@ -23,8 +23,11 @@
     "@ngrx/store": "^6.0.1",
     "@ngrx/store-devtools": "^6.0.1",
     "core-js": "^2.5.4",
+    "lodash": "^4.17.11",
     "rxjs": "^6.0.0",
+    "tar": "^4.4.8",
     "todomvc-app-css": "^2.1.2",
+    "webpack-dev-server": "^3.4.1",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
